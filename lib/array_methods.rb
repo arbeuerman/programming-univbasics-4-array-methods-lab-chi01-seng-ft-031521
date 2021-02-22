@@ -21,3 +21,7 @@ end
 def using_size(array)
 
 end
+
+puts using_include([1,2,3], 2)
+puts using_sort(["hamster", "dog", "zebra", "owl"])
+puts using_reverse(["hamster", "dog", "zebra", "owl"])
