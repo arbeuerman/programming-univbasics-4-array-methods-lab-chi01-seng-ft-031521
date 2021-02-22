@@ -21,10 +21,3 @@ end
 def using_size(array)
  array.size 
 end
-
-puts using_include([1,2,3], 2)
-puts using_sort(["hamster", "dog", "zebra", "owl"])
-puts using_reverse(["hello", "my", "name", "is"])
-puts using_first(["ronnie", "is", "wonderful"])
-puts using_last(["ronnie", "is", "wonderful"])
-puts using_size(["ronnie", "is", "wonderful"])
